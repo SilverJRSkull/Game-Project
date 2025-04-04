@@ -1,5 +1,5 @@
 {
-    "announcements": [
+    "announcements":
       "Game Version: 1.0 is now live!",
       "Text.",
       "Text.",
@@ -19,5 +19,4 @@
       "Text.",
       "Text.",
       "Text"
-    ]
   }  
