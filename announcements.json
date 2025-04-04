@@ -1,22 +1,21 @@
 {
-    "announcements":
-      "Game Version: 1.0 is now live!",
-      "Text.",
-      "Text.",
-      "Text",
-      "Text.",
-      "Text.",
-      "Text",
-      "Text.",
-      "Text.",
-      "Text",
-      "Text.",
-      "Text.",
-      "Text",
-      "Text.",
-      "Text.",
-      "Text",
-      "Text.",
-      "Text.",
-      "Text"
-  }  
+    "announcements": [
+        "Game Version: <color=green>1.0</color> is now live!",
+        "Join our community! http://notavailableyet",
+        "Text.",
+        "Text.",
+        "Text",
+        "Text.",
+        "Text.",
+        "Text",
+        "Text.",
+        "Text.",
+        "Text.",
+        "Text.",
+        "Text.",
+        "Text.",
+        "Text.",
+        "Text."
+    ],
+    "date": "2025-01-01"
+}
