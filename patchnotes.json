@@ -1,4 +1,5 @@
 {
+    "date": "2025-01-01",
     "patchnotes": [
         "Game Patch: <color=orange>1.0.1</color> is here!",
         "Please report any issues, thank you!",
@@ -7,8 +8,6 @@
         "Test.",
         "Test.",
         "Test.",
-        "Test.",
-
-        "date: 2025-01-01"
-    ],
+        "Test."
+    ]
 }
