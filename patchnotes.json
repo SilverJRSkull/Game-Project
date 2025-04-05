@@ -2,12 +2,13 @@
     "patchnotes": [
         "Game Patch: <color=orange>1.0.1</color> is here!",
         "Please report any issues, thank you!",
-        "For more details, visit <link=\"https://github.com/SilverJRSkull/Game-Project/blob/gh-pages/patchnotes.json\"></link>.",
+        "For more details, visit our <link=\"https://github.com/SilverJRSkull/Game-Project/blob/gh-pages/patchnotes.json\">Patch Repository</link>.",
         "Test.",
         "Test.",
         "Test.",
         "Test.",
-        "Test."
+        "Test.",
+
+        "date: 2025-01-01"
     ],
-    "date": "2025-01-01"
 }
